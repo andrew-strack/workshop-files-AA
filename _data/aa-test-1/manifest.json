@@ -1,0 +1,33 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://andrew-strack.github.io/workshop-files-AA/aa-test-1/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "AA test 1" ] },
+    "items": [
+      {
+        "id": "https://andrew-strack.github.io/workshop-files-AA/aa-test-1/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 632,
+        "items": [
+          {
+            "id": "https://andrew-strack.github.io/workshop-files-AA/aa-test-1/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://andrew-strack.github.io/workshop-files-AA/aa-test-1/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://apps.lib.jmu.edu/audiannotate/Yaounde_olu.mp3",
+                  "type": "Sound",
+                  "format": "audio/mp3",
+                    "duration": 632
+                },
+                "target": "https://andrew-strack.github.io/workshop-files-AA/aa-test-1/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 
