@@ -1,0 +1,470 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://andrew-strack.github.io/workshop-files-AA/aa-test-1/canvas-1/canvas/speaker.json",
+  "type": "AnnotationPage",
+  "label": "Speaker",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://andrew-strack.github.io/workshop-files-AA/aa-test-1/canvas-1/canvas/speaker-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Yaounde Olu",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://andrew-strack.github.io/workshop-files-AA/aa-test-1/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "19.487433,20.081965"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://andrew-strack.github.io/workshop-files-AA/aa-test-1/canvas-1/canvas/speaker-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Speaker Unknown",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://andrew-strack.github.io/workshop-files-AA/aa-test-1/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "22.129797,28.47147"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://andrew-strack.github.io/workshop-files-AA/aa-test-1/canvas-1/canvas/speaker-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Yaounde Olu",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://andrew-strack.github.io/workshop-files-AA/aa-test-1/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "28.47147,32.10472"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://andrew-strack.github.io/workshop-files-AA/aa-test-1/canvas-1/canvas/speaker-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Speaker Unknown",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://andrew-strack.github.io/workshop-files-AA/aa-test-1/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "33.095606,37.719743"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://andrew-strack.github.io/workshop-files-AA/aa-test-1/canvas-1/canvas/speaker-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Yaounde Olu",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://andrew-strack.github.io/workshop-files-AA/aa-test-1/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "37.719743,43.334766"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://andrew-strack.github.io/workshop-files-AA/aa-test-1/canvas-1/canvas/speaker-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Speaker Unknown",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://andrew-strack.github.io/workshop-files-AA/aa-test-1/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "43.665061,44.589889"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://andrew-strack.github.io/workshop-files-AA/aa-test-1/canvas-1/canvas/speaker-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Yaounde Olu",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://andrew-strack.github.io/workshop-files-AA/aa-test-1/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "44.589889,46.241366"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://andrew-strack.github.io/workshop-files-AA/aa-test-1/canvas-1/canvas/speaker-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Speaker Unknown",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://andrew-strack.github.io/workshop-files-AA/aa-test-1/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "46.637721,48.69381"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://andrew-strack.github.io/workshop-files-AA/aa-test-1/canvas-1/canvas/speaker-annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Yaounde Olu",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://andrew-strack.github.io/workshop-files-AA/aa-test-1/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "50.048022,52.112368"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://andrew-strack.github.io/workshop-files-AA/aa-test-1/canvas-1/canvas/speaker-annotation-10.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Speaker Unknown",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://andrew-strack.github.io/workshop-files-AA/aa-test-1/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "52.971136,57.281492"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://andrew-strack.github.io/workshop-files-AA/aa-test-1/canvas-1/canvas/speaker-annotation-11.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Yaounde Olu",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://andrew-strack.github.io/workshop-files-AA/aa-test-1/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "58.338438,63.391959"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://andrew-strack.github.io/workshop-files-AA/aa-test-1/canvas-1/canvas/speaker-annotation-12.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Speaker Unknown",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://andrew-strack.github.io/workshop-files-AA/aa-test-1/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "66.348103,67.99958"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://andrew-strack.github.io/workshop-files-AA/aa-test-1/canvas-1/canvas/speaker-annotation-13.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Yaounde Olu",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://andrew-strack.github.io/workshop-files-AA/aa-test-1/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "69.469395,80.327859"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://andrew-strack.github.io/workshop-files-AA/aa-test-1/canvas-1/canvas/speaker-annotation-14.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Speaker Unknown",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://andrew-strack.github.io/workshop-files-AA/aa-test-1/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "81.607754,82.507809"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://andrew-strack.github.io/workshop-files-AA/aa-test-1/canvas-1/canvas/speaker-annotation-15.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Yaounde Olu",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://andrew-strack.github.io/workshop-files-AA/aa-test-1/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "82.895906,84.357464"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://andrew-strack.github.io/workshop-files-AA/aa-test-1/canvas-1/canvas/speaker-annotation-16.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Yaounde Olu",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://andrew-strack.github.io/workshop-files-AA/aa-test-1/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "87.008085,110.888448"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://andrew-strack.github.io/workshop-files-AA/aa-test-1/canvas-1/canvas/speaker-annotation-17.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Speaker Unknown",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://andrew-strack.github.io/workshop-files-AA/aa-test-1/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "113.225288,122.902945"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://andrew-strack.github.io/workshop-files-AA/aa-test-1/canvas-1/canvas/speaker-annotation-18.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Yaounde Olu",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://andrew-strack.github.io/workshop-files-AA/aa-test-1/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "123.563536,185.460908"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://andrew-strack.github.io/workshop-files-AA/aa-test-1/canvas-1/canvas/speaker-annotation-19.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Yaounde Olu",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://andrew-strack.github.io/workshop-files-AA/aa-test-1/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "186.187558,187.839035"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://andrew-strack.github.io/workshop-files-AA/aa-test-1/canvas-1/canvas/speaker-annotation-20.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Speaker Unknown",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://andrew-strack.github.io/workshop-files-AA/aa-test-1/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "188.697804,198.738786"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://andrew-strack.github.io/workshop-files-AA/aa-test-1/canvas-1/canvas/speaker-annotation-21.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Yaounde Olu",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://andrew-strack.github.io/workshop-files-AA/aa-test-1/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "199.432406,204.122602"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://andrew-strack.github.io/workshop-files-AA/aa-test-1/canvas-1/canvas/speaker-annotation-22.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Speaker Unknown",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://andrew-strack.github.io/workshop-files-AA/aa-test-1/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "204.205176,206.054831"
+        }
+      }
+    }
+  ]
+}

@@ -8,6 +8,14 @@
         "id": "https://andrew-strack.github.io/workshop-files-AA/aa-test-1/canvas-1/canvas",
         "type": "Canvas",
         "duration": 632,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://andrew-strack.github.io/workshop-files-AA/aa-test-1/canvas-1/canvas/speaker.json",
+            "label": "Speaker"
+          }
+        ],
         "items": [
           {
             "id": "https://andrew-strack.github.io/workshop-files-AA/aa-test-1/canvas-1/paintings",
