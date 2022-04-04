@@ -1,0 +1,155 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://andrew-strack.github.io/workshop-files-AA/aa-test-1/canvas-1/canvas/environmental.json",
+  "type": "AnnotationPage",
+  "label": "Environmental",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://andrew-strack.github.io/workshop-files-AA/aa-test-1/canvas-1/canvas/environmental-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "EN:[Laughter]",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://andrew-strack.github.io/workshop-files-AA/aa-test-1/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "20.081965,22.129797"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://andrew-strack.github.io/workshop-files-AA/aa-test-1/canvas-1/canvas/environmental-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "EN:[Chuckling]",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://andrew-strack.github.io/workshop-files-AA/aa-test-1/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "63.391959,65.192069"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://andrew-strack.github.io/workshop-files-AA/aa-test-1/canvas-1/canvas/environmental-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "EN:[Utensil hits table]",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://andrew-strack.github.io/workshop-files-AA/aa-test-1/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "67.99958,68.230787"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://andrew-strack.github.io/workshop-files-AA/aa-test-1/canvas-1/canvas/environmental-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "EN:[Laughter]",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://andrew-strack.github.io/workshop-files-AA/aa-test-1/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "80.327859,80.559066"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://andrew-strack.github.io/workshop-files-AA/aa-test-1/canvas-1/canvas/environmental-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "EN:[Whispering]",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://andrew-strack.github.io/workshop-files-AA/aa-test-1/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "82.895906,84.357464"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://andrew-strack.github.io/workshop-files-AA/aa-test-1/canvas-1/canvas/environmental-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "EN:[Tape whirring]",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://andrew-strack.github.io/workshop-files-AA/aa-test-1/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "84.638215,85.670388"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://andrew-strack.github.io/workshop-files-AA/aa-test-1/canvas-1/canvas/environmental-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "EN:[Laughter]",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://andrew-strack.github.io/workshop-files-AA/aa-test-1/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "187.839035,188.697804"
+        }
+      }
+    }
+  ]
+}
